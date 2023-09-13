@@ -1,0 +1,21 @@
+{
+    "ip": "177.62.40.26",
+    "location": {
+        "country": "BR",
+        "region": "São Paulo",
+        "city": "São Paulo",
+        "lat": -23.5475,
+        "lng": -46.63611,
+        "postalCode": "01331-000",
+        "timezone": "-03:00",
+        "geonameId": 3448439
+    },
+    "as": {
+        "asn": 26599,
+        "name": "TELEFÔNICA BRASIL S.A",
+        "route": "177.60.0.0/14",
+        "domain": "http://www.telefonica.com.br",
+        "type": "Not Disclosed"
+    },
+    "isp": "TELEFÔNICA BRASIL S.A"
+}
